@@ -1,13 +1,11 @@
 {
-"update_url": "https://clients2.google.com/service/update2/crx",
-
     "name": "Mail.ru Checker",
     "description": "Отображение количества непрочитанных сообщений в почтовом ящике Mail.ru",
     "version": "3.3.6",
 	"manifest_version": 2,
     "background": {
         "page": "background.html"
-      },
+    },
 
     "browser_action": {
         "default_title": "Mail.ru Checker",
